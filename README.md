@@ -6,7 +6,7 @@ Je suis Mohamed Hamza Machnaoui, un développeur Fullstack passionné par le cod
 
 ## 🚀 À propos de moi
 
-- 🎓 Développeur spécialisé en **Fullstack**.
+- 🎓 Développeur expérimenté en conception et développement d'applications web,desktop et mobiles.
 - 💻 Langages préférés : **PHP, Java, JavaScript, CSS, HTML, Bootstrap, jQuery, JavaEE, Python, C, C#, ASP.NET, Flutter, React.js, Angular, Django, SQL, Laravel, Symfony**.
 - 🌱 Actuellement en train d'apprendre : **Next.js**.
 - 📫 Contactez-moi : [LinkedIn](https://ma.linkedin.com/in/mohamed-hamza-machnaoui).
