@@ -14,7 +14,7 @@ Je suis Mohamed Hamza Machnaoui, un développeur Fullstack passionné par le cod
 
 ---
 
-## 🛠️ Compétences
+## ⚒️ Compétences
 
 ### Langages de programmation et de balisage
 
@@ -56,7 +56,7 @@ Je suis Mohamed Hamza Machnaoui, un développeur Fullstack passionné par le cod
 
 ---
 
-## 🌐 Suivez-moi
+## 🔗 Suivez-moi
 
 - [LinkedIn](https://ma.linkedin.com/in/mohamed-hamza-machnaoui)
 - [Facebook](https://facebook.com/hamza.machnaoui)
