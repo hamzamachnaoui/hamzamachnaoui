@@ -1,68 +1,58 @@
-# Bonjour ! 👋 Bienvenue sur mon profil GitHub
-Mon site web : [https://hamzamachnaoui.rf.gd/](https://hamzamachnaoui.rf.gd)
+# 👋 Salut, moi c'est Mohamed Hamza Machnaoui
+### ⚡ Développeur Fullstack | Passionné par l'Innovation & l'Architecture Logicielle
 
-
-Je suis Mohamed Hamza Machnaoui, un développeur Fullstack passionné par le code, la technologie et la résolution de problèmes complexes.
-
----
-
-## 🚀 À propos de moi
-
-- 🎓 Développeur expérimenté en conception et développement d'applications web,desktop et mobiles.
-- 💻 Langages préférés : **PHP, Java, JavaScript, CSS, HTML, Bootstrap, jQuery, JavaEE, Python, C, C#, ASP.NET, Flutter, React.js, Angular, Django, SQL, Laravel, Symfony**.
-- 🌱 Actuellement en train d'apprendre : **Next.js**.
-- 📫 Contactez-moi : [LinkedIn](https://ma.linkedin.com/in/mohamed-hamza-machnaoui).
-- ✨ Toujours à la recherche de projets innovants.
+<p align="center">
+  <a href="https://hamzamachnaoui.rf.gd/"><strong>🌐 Mon Portfolio</strong></a> • 
+  <a href="https://ma.linkedin.com/in/mohamed-hamza-machnaoui"><strong>💼 LinkedIn</strong></a> •
+  <a href="mailto:votre-email@exemple.com"><strong>📧 Me contacter</strong></a>
+</p>
 
 ---
 
-## ⚒️ Compétences
+### 📖 À propos de moi
 
-### Langages de programmation et de balisage
+Je suis un développeur Fullstack polyvalent avec une solide expertise dans la création de solutions web, mobiles et desktop. Mon approche est centrée sur la **performance**, la **scalabilité** et l'**expérience utilisateur**.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Frameworks & Bibliothèques
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Outils et Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![PHP Storm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+- 🔭 **Projet actuel :** Perfectionnement sur l'écosystème **Next.js** et l'architecture Microservices.
+- 💡 **Ma devise :** "Le code est de la poésie, mais seulement s'il est propre et efficace."
+- 🏢 **Expérience :** Expert en environnements PHP/Laravel, JavaEE et frameworks JavaScript modernes.
 
 ---
 
-## 📊 Statistiques GitHub
+### 🛠️ Mon Stack Technique
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=hamzamachnaoui&show_icons=true&theme=radical)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamachnaoui&layout=compact&theme=radical)
-
-
----
-
-## 🔗 Suivez-moi
-
-- [LinkedIn](https://ma.linkedin.com/in/mohamed-hamza-machnaoui)
-- [Facebook](https://facebook.com/hamza.machnaoui)
+| Catégorie | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) |
 
 ---
 
-Merci de visiter mon profil ! 🙏 N'hésitez pas à explorer mes projets et à me contacter si vous souhaitez collaborer.
+### 📊 Mes Statistiques GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzamachnaoui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamachnaoui&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+---
+
+### 🏆 Projets Sélectionnés
+
+- **[Nom du Projet 1]** : Description courte et impactante (ex: Dashboard de gestion SaaS).
+- **[Nom du Projet 2]** : Application mobile cross-platform avec Flutter.
+
+---
+
+### 🤝 Connectons-nous !
+
+<p align="left">
+  <a href="https://ma.linkedin.com/in/mohamed-hamza-machnaoui" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/hamza.machnaoui" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
