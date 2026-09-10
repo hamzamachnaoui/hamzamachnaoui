@@ -51,10 +51,9 @@ Je suis Mohamed Hamza Machnaoui, un développeur Fullstack passionné par le cod
 
 ## 📊 Statistiques GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=hamzamachnaoui&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats-eight-theta.vercel.app/api?username=hamzamachnaoui&show_icons=true&theme=radical)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzamachnaoui&layout=compact&theme=radical)
-
+![Langages les plus utilisés](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamzamachnaoui&layout=compact&theme=radical)
 
 ---
 
