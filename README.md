@@ -1,73 +1,89 @@
 <h1 align="center">Bonjour ! 👋 Bienvenue sur mon profil GitHub</h1>
+
+<!-- Bannière animée avec effet machine à écrire -->
 <p align="center">
-  <a href="https://hamzamachnaoui.com/"><b>🌐 Visiter mon site web</b></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Développeur+Fullstack;Passionné+par+le+Code;Architecte+Logiciel;Résolveur+de+Problèmes" alt="Typing SVG" />
 </p>
 
----
-
 <p align="center">
-  Je suis <b>Mohamed Hamza Machnaoui</b>, un développeur Fullstack passionné par le code, l'architecture logicielle et la résolution de problèmes complexes.
+  <a href="https://hamzamachnaoui.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🌐_Visiter_Mon_Site-3B82F6?style=for-the-badge&logoColor=white" alt="Site Web" />
+  </a>
+  <a href="https://ma.linkedin.com/in/mohamed-hamza-machnaoui" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 À propos de moi
 
-- 🎓 Expérimenté dans la conception et le développement d'applications web, desktop et mobiles.
+- 🎓 **Profil :** Développeur expérimenté en conception et développement d'applications **web, desktop et mobiles**.
+- 💡 **Mots-clés populaires & Domaines :** `Fullstack Development`, `Cloud Computing`, `API REST`, `Clean Architecture`, `Responsive Design`, `CI/CD`.
 - 💻 **Stack principale :** PHP, JavaScript, TypeScript, Node.js, Python, React.js, Laravel, Symfony, SQL.
-- 🌱 **Actuellement en train d'explorer :** **Next.js** et l'optimisation d'architectures backend.
-- 🏢 **Projets actuels :** Implication dans le développement de solutions logicielles et d'outils numériques (Bytecraft, plateformes de gestion).
-- 📫 **Contact :** [LinkedIn](https://ma.linkedin.com/in/mohamed-hamza-machnaoui) | [Site web](https://hamzamachnaoui.com/)
+- 🌱 **En route vers :** **Next.js**, **Docker** et l'optimisation des performances web.
+- 📫 **Contact :** <a href="https://ma.linkedin.com/in/mohamed-hamza-machnaoui" target="_blank" rel="noopener noreferrer">Discutons de votre projet sur LinkedIn</a> !
 
 ---
 
-## ⚒️ Compétences & Technologies
+## ⚒️ Compétences & Technologies Populaires
 
 ### Langages & Bases de données
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ### Frameworks & Bibliothèques
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38Bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-### Outils & Environnements
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PHPStorm](https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hamzamachnaoui&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamzamachnaoui&layout=compact&theme=radical&hide_border=true" />
+### Outils & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
 ---
 
-## 🔗 Réseaux & Contact
+## 📊 Statistiques & Activité GitHub
 
-- **Site Web :** [hamzamachnaoui.com](https://hamzamachnaoui.com/)
-- **LinkedIn :** [Mohamed Hamza Machnaoui](https://ma.linkedin.com/in/mohamed-hamza-machnaoui)
-- **Facebook :** [hamza.machnaoui](https://facebook.com/hamza.machnaoui)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hamzamachnaoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamzamachnaoui&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzamachnaoui&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
+</p>
+
+---
+
+## 🔗 Restons en Contact
+
+- **Site Web :** <a href="https://hamzamachnaoui.com/" target="_blank" rel="noopener noreferrer">hamzamachnaoui.com</a>
+- **LinkedIn :** <a href="https://ma.linkedin.com/in/mohamed-hamza-machnaoui" target="_blank" rel="noopener noreferrer">Mohamed Hamza Machnaoui</a>
+- **Facebook :** <a href="https://facebook.com/hamza.machnaoui" target="_blank" rel="noopener noreferrer">hamza.machnaoui</a>
 
 ---
 
 <p align="center">
-  <i>Merci de visiter mon profil ! N'hésitez pas à explorer mes dépôts et à me contacter pour toute collaboration. 🚀</i>
+  <i>Merci de votre visite ! N'hésitez pas à jeter un œil à mes repositories. 🚀</i>
 </p>
 
 <p align="center">
